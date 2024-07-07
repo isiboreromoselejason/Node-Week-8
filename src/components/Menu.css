@@ -1,0 +1,20 @@
+.site-menu {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.site-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.site-menu li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.site-menu a {
+    text-decoration: none;
+    color: #000;
+}
