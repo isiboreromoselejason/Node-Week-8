@@ -1,0 +1,7 @@
+.hero {
+    background-image: url('https://example.com/hero-image.jpg'); /* Replace with a relevant image URL */
+    background-size: cover;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
